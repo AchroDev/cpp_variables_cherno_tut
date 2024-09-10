@@ -1,6 +1,4 @@
 #include <iostream>
-#include <ostream>
-#include <type_traits>
 
 //char = 1 byte
 //short = 2 bytes
