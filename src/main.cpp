@@ -10,6 +10,9 @@
 //float is a decimal value that occupies 4 bytes, declared by adding 'f/F' to the end of the number
 //double is a decimal value that occupies 8 bytes.
 
+//The asterisk '*' is used for pointers
+//The ampersand '&' is used for references
+
 int main(){
     int variable = 8; //Defining the integer variable named "variable" (-2b -> 2b supported by 4bytes of data for signed int)
     unsigned int variable2 = 16; //Unsinged ints in C++ are 32bit
